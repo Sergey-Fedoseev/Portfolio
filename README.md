@@ -1,2 +1,2 @@
 # Portfolio
-Portfolio with projects
+Portfolio with projects on Python (Pandas) and Excel.
